@@ -1,4 +1,4 @@
-package io.cucumber;
+package org.sakaiproject.cucumber.pages;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;

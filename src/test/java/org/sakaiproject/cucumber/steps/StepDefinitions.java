@@ -1,5 +1,6 @@
-package io.cucumber;
+package org.sakaiproject.cucumber.steps;
 
+import org.sakaiproject.cucumber.util.SauceUtils;
 import com.saucelabs.saucerest.SauceREST;
 import cucumber.api.Scenario;
 import cucumber.api.java.After;
